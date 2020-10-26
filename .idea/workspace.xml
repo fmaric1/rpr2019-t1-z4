@@ -19,8 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f07ea05-657f-4895-bd63-d39a49f072bf" name="Default Changelist" comment="Ispravke nekih funkcionalnosti metoda">
+    <list default="true" id="9f07ea05-657f-4895-bd63-d39a49f072bf" name="Default Changelist" comment="Dodavanje metoda u klase">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="fd475c8a-71dd-45cc-b80c-b3102926dd6f" name="Ispravke nekih funkcionalnosti metoda" comment="">
       <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/Artikl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/Artikl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/Korpa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/Korpa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/Supermarket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/Supermarket.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +45,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunManager">
@@ -66,6 +72,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="9f07ea05-657f-4895-bd63-d39a49f072bf" name="Default Changelist" comment="" />
+      <changelist id="fd475c8a-71dd-45cc-b80c-b3102926dd6f" name="Ispravke nekih funkcionalnosti metoda" comment="" />
       <created>1603723658724</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -78,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603727272003</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Dodavanje metoda u klase">
+      <created>1603728287550</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603728287550</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,11 +105,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Dodane funkcije svim klasama" />
     <MESSAGE value="Ispravke nekih funkcionalnosti metoda" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ispravke nekih funkcionalnosti metoda" />
+    <MESSAGE value="Dodavanje metoda u klase" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dodavanje metoda u klase" />
   </component>
   <component name="WindowStateProjectService">
     <state x="294" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603727120954">
@@ -106,22 +122,30 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="645" y="206" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1603725541024" />
-    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1603727450847">
+    <state width="1637" height="337" key="GridCell.Tab.0.bottom" timestamp="1603739622615">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1603727450847" />
-    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1603727450847">
+    <state width="1637" height="337" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1603739622615" />
+    <state width="1637" height="337" key="GridCell.Tab.0.center" timestamp="1603739622615">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1603727450847" />
-    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1603727450847">
+    <state width="1637" height="337" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1603739622615" />
+    <state width="1637" height="337" key="GridCell.Tab.0.left" timestamp="1603739622615">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1603727450847" />
-    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1603727450847">
+    <state width="1637" height="337" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1603739622615" />
+    <state width="1637" height="337" key="GridCell.Tab.0.right" timestamp="1603739622615">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1603727450847" />
+    <state width="1637" height="337" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1603739622615" />
+    <state x="687" y="418" key="VCS.ChangelistChooser" timestamp="1603728257576">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="687" y="418" key="VCS.ChangelistChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1603728257576" />
+    <state x="432" y="238" key="Vcs.Push.Dialog.v2" timestamp="1603729248052">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="432" y="238" key="Vcs.Push.Dialog.v2/0.0.1680.1010@0.0.1680.1010" timestamp="1603729248052" />
     <state x="657" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603725494642">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
